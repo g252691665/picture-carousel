@@ -1,0 +1,2 @@
+# picture-carousel
+实现一个类似于网易新闻android客户端首页展示新闻的那个轮播图
